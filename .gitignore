@@ -1,0 +1,10 @@
+.vscode/
+toDO.md
+dist/
+.cache/
+node_modules/
+README.md
+gsap-bonus.tgz
+package-lock.json
+package.json
+.cache/
